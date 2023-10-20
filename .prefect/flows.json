@@ -1,0 +1,3 @@
+{
+  "query-bigquery": "flow.py:query_bigquery"
+}
